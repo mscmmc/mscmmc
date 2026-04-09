@@ -4,8 +4,6 @@ I'm Marcel Costa, a Biomedical professional currently transitioning into IT, pur
 
 I’m focused on building a strong foundation in **Backend Development and Data Engineering**, combining my technical growth with real-world experience from the healthcare field.
 
-My pronouns are he/him.
-
 ---
 
 ## 🚀 Current Focus
